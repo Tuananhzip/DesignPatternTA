@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\DesignPatternTH7\DesignPatternTH7\bin\Debug\DesignPatternTH7.exe.config
+C:\Users\Admin\source\repos\DesignPatternTH7\DesignPatternTH7\bin\Debug\DesignPatternTH7.exe
+C:\Users\Admin\source\repos\DesignPatternTH7\DesignPatternTH7\bin\Debug\DesignPatternTH7.pdb
+C:\Users\Admin\source\repos\DesignPatternTH7\DesignPatternTH7\obj\Debug\DesignPatternTH7.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DesignPatternTH7\DesignPatternTH7\obj\Debug\DesignPatternTH7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DesignPatternTH7\DesignPatternTH7\obj\Debug\DesignPatternTH7.exe
+C:\Users\Admin\source\repos\DesignPatternTH7\DesignPatternTH7\obj\Debug\DesignPatternTH7.pdb

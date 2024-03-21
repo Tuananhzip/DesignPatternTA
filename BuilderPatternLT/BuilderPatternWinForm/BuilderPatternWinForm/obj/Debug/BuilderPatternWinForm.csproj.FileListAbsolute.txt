@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\BuilderPatternWinForm\BuilderPatternWinForm\bin\Debug\BuilderPatternWinForm.exe.config
+C:\Users\Admin\source\repos\BuilderPatternWinForm\BuilderPatternWinForm\bin\Debug\BuilderPatternWinForm.exe
+C:\Users\Admin\source\repos\BuilderPatternWinForm\BuilderPatternWinForm\bin\Debug\BuilderPatternWinForm.pdb
+C:\Users\Admin\source\repos\BuilderPatternWinForm\BuilderPatternWinForm\obj\Debug\BuilderPatternWinForm.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BuilderPatternWinForm\BuilderPatternWinForm\obj\Debug\BuilderPatternWinForm.Form1.resources
+C:\Users\Admin\source\repos\BuilderPatternWinForm\BuilderPatternWinForm\obj\Debug\BuilderPatternWinForm.Form2.resources
+C:\Users\Admin\source\repos\BuilderPatternWinForm\BuilderPatternWinForm\obj\Debug\BuilderPatternWinForm.Properties.Resources.resources
+C:\Users\Admin\source\repos\BuilderPatternWinForm\BuilderPatternWinForm\obj\Debug\BuilderPatternWinForm.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BuilderPatternWinForm\BuilderPatternWinForm\obj\Debug\BuilderPatternWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BuilderPatternWinForm\BuilderPatternWinForm\obj\Debug\BuilderPatternWinForm.exe
+C:\Users\Admin\source\repos\BuilderPatternWinForm\BuilderPatternWinForm\obj\Debug\BuilderPatternWinForm.pdb
